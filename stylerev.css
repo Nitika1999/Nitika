@@ -1,0 +1,17 @@
+.ab
+{
+    background-color: red;
+    border: solid 10px;
+   
+    
+    width: 200px;
+    height:200px; 
+}
+.bc
+{
+     background-color: blue;
+    border: solid 20px;
+    margin-left: 220px;
+     width: 200px;
+    height:200px; 
+}
